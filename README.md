@@ -5,7 +5,7 @@ https://github.com/maciekstrach01/Threads/assets/146733279/8dac48ef-94a9-4912-8b
 
 # To Do
 
-The programme is a simple task management system. It includes a main menu with options to: show tasks, add a task, delete a task, exit the program. It allows the user to add, delete and view tasks in different categories such as homework, business, personal, health, educational, social and professional tasks. Tasks are stored in text files corresponding to the categories.The programme includes appropriate data validation.
+The programme is a simple task management system. It includes a main menu with options to: show tasks, add a task, delete a task, exit the program. It allows the user to add, delete and view tasks in different categories such as homework, business, personal, health, educational, social and professional tasks. Tasks are stored in text files corresponding to the categories. The programme includes appropriate data validation.
 
 ## Screenshots
 
